@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan Intent Explicit</string>
+
+    <string-array name="Hobi">
+        <item>Bermain Tic Tac Toe</item>
+        <item>Minum Coklat Panas</item>
+        <item>Menyelesaikan Permainan </item>
+        <item>Menonton TV</item>
+        <item>Minum teh panas</item>
+    </string-array>
+</resources>
